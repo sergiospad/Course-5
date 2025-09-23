@@ -14,3 +14,29 @@
 Полукаров Д.Ю.
 
 Сдать менталку, либо конспект до зимы
+------------------------------------------------------
+Лабораторная работа №1
+
+задание на первую лабораторку:
+1) установить OMNeT++
+2) установить INET framework
+3) запустить проект "TicToc" на моделирование
+4) по проделанной работе оформить отчёт.
+    Оформленный отчёт прислать на <wi-fi2020@list.ru> , желательно в формате pdf  .
+
+Ссылки для скачивания :
+
+https://github.com/omnetpp/omnetpp/releases/download/omnetpp-6.0.3/omnetpp-6.0.3-windows-x86_64.zip
+https://disk.ssau.ru/s/qXQ7q5qMrwxQ5bx 
+
+macos: https://github.com/omnetpp/omnetpp/releases/download/omnetpp-6.0.3/omnetpp-6.0.3-macos-x86_64.tgz
+https://disk.ssau.ru/s/scxDcq5mDz7GBMQ 
+
+Ссылки для скачивания INET framework:
+https://github.com/inet-framework/inet/releases/download/v4.5.2/inet-4.5.2-src.tgz
+https://disk.ssau.ru/s/MDxNQK6am5X5H27
+
+Справочная информация:
+OMNeT++ официальная страница  https://web.archive.org/web/20240901173912/https://www.omnetpp.org/
+INET framework официальная страница https://web.archive.org/web/20240902000122/https://inet.omnetpp.org/
+Первые шаги в OMNeT++ и INET framework: https://habr.com/ru/articles/420327/
