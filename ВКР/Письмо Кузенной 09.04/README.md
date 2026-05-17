@@ -21,3 +21,6 @@ https://drive.google.com/drive/folders/1EsgDiESlngTMjFQCnafmO6-qMY16tM5g?usp=dri
 С уважением, Кузенная Н.В.
 
 natalya.kuzennaya@gmail.com
+
+
+Актуальное расписание защит в файле под номером 3 
